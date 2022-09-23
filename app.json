@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Exercise Journal",
+    "slug": "Exercise Journal",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
